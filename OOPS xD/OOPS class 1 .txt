@@ -1,0 +1,10 @@
+What is a Abstract class ?
+How do we define it ?
+What are its advantages and dis-advantages ?
+How does an abstract class work ?
+When should we design abstract classes ?
+
+
+
+Abstraction is a process of hiding the implementation details and showing only functionality to the user.
+To create an abstract class we use the abstract keyword before the class keyword, in the class declaration.

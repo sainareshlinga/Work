@@ -1,0 +1,1 @@
+print('My name is',input('Peru Rayi:'),'My hobby is',input('hobby rayi:'),)
